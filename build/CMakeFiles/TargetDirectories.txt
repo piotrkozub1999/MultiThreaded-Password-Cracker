@@ -1,0 +1,3 @@
+/home/piotr/CppProjects/Hasla_projekt/build/CMakeFiles/hash_cracker.dir
+/home/piotr/CppProjects/Hasla_projekt/build/CMakeFiles/edit_cache.dir
+/home/piotr/CppProjects/Hasla_projekt/build/CMakeFiles/rebuild_cache.dir
