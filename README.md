@@ -9,6 +9,7 @@ To execute project use on linux use command:
 
 mkdir build && cd build && cmake .. && make && ./hash_cracker
 
+
 Here you can see the results for MD5 alghoritm during 1000 hashes breaking:
 
 1 Thread:
