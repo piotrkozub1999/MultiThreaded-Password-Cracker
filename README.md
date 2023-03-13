@@ -6,4 +6,5 @@ Three hashing methods are used:
 - SHA256
 
 To execute project use on linux use command:
+
 mkdir build && cd build && cmake .. && make && ./hash_cracker
