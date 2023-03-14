@@ -1,3 +1,5 @@
+## MultiThreaded Password Cracker
+
 The program is used to test the increase performance of application depending on the number of CPU threads used. 
 The algorithm searches the English dictionary to crack the hashed word.
 Three hashing methods are used:
