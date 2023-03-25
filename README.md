@@ -7,7 +7,7 @@ Three hashing methods are used:
 - SHA1
 - SHA256
 
-#### To execute project use on linux use command:
+#### To execute project on linux use command:
 
 ##### mkdir build && cd build && cmake .. && make && ./hash_cracker
 
